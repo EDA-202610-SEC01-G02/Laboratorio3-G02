@@ -29,7 +29,8 @@ import os
 import time
 
 # TODO Importar la librería para el manejo de listas
-from DataStructures.List import array_list as al
+from DataStructures.List import array_list as lt
+from DataStructures.List import single_linked_list as slt
 data_dir = os.path.dirname(os.path.realpath('__file__')) + '/Data/'
 
 """
